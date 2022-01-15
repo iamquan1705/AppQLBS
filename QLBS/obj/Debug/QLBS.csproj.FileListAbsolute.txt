@@ -1,0 +1,191 @@
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.exe.config
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.exe
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.pdb
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.Desktop.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraScheduler.v20.2.Core.Desktop.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraScheduler.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraScheduler.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraScheduler.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraScheduler.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraScheduler.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csprojAssemblyReference.cache
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.dangnhap.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.Properties.Resources.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.GenerateResource.cache
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.exe.licenses
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.CoreCompileInputs.cache
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.CopyComplete
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.exe
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.pdb
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.danhmuc.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.hoadon.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.main.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.nhanvien.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.phieunhap.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.tacgia.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.ttsach.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.tttaikhoan.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.nhacungcap.resources
+C:\Users\locdz\OneDrive\Tài liệu\C#\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.khachhang.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.exe.config
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.exe
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\QLBS.pdb
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.dangnhap.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.danhmuc.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.khachhang.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.main.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.nhacungcap.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.nhanvien.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.phieunhap.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.tacgia.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.Properties.Resources.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.ttsach.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.tttaikhoan.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.GenerateResource.cache
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.exe.licenses
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.CoreCompileInputs.cache
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.CopyComplete
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.exe
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.pdb
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.phieuxuat.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.chitietphieunhap.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.kho.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.chitietPX.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.rpHoaDonXuat.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\stdole.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.rpHoaDonNhap.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.thongkedoanhthu.resources
+C:\Users\IamQuan\Desktop\T3\BTL-QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.chitietphieunhap.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.dangnhap.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.danhmuc.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.khachhang.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.kho.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.main.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.nhacungcap.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.nhanvien.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.phieunhap.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.phieuxuat.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.tacgia.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.chitietPX.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.thongkedoanhthu.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.ttsach.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.tttaikhoan.resources
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.GenerateResource.cache
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\bin\Debug\QLBS.exe.config
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\bin\Debug\QLBS.exe
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\bin\Debug\QLBS.pdb
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.exe
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.pdb
+C:\Users\Windows 10\Documents\Zalo Received Files\QLBS\QLBS\QLBS\obj\Debug\QLBS.csproj.AssemblyReference.cache
